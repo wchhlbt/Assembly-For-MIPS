@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1540731685 source:d:\ass\elf_file.cpp
+	"elf_file.h"
+
+1546782735 d:\ass\elf_file.h
+	"elf.h"
+	<map>
+	<ext/hash_map>
+	<vector>
+	<iostream>
+	<cstdio>
+
+1541040781 d:\ass\elf.h
+	<stdint.h>
+
+1546750690 source:d:\ass\main.cpp
+	<bits/stdc++.h>
+	"elf_file.h"
+
